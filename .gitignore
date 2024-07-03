@@ -33,6 +33,4 @@
 
 #vscode
 .vscode
-
-#tempory
-*.gch
+.git #not sure if it works
